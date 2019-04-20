@@ -1,0 +1,9 @@
+D:\Subin\Tech\Asp.Net Core\Projects\OdeToFood\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.2\OdeToFood.Core.deps.json
+D:\Subin\Tech\Asp.Net Core\Projects\OdeToFood\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.2\OdeToFood.Core.dll
+D:\Subin\Tech\Asp.Net Core\Projects\OdeToFood\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.2\OdeToFood.Core.pdb
+D:\Subin\Tech\Asp.Net Core\Projects\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.csprojAssemblyReference.cache
+D:\Subin\Tech\Asp.Net Core\Projects\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.csproj.CoreCompileInputs.cache
+D:\Subin\Tech\Asp.Net Core\Projects\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.AssemblyInfoInputs.cache
+D:\Subin\Tech\Asp.Net Core\Projects\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.AssemblyInfo.cs
+D:\Subin\Tech\Asp.Net Core\Projects\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.dll
+D:\Subin\Tech\Asp.Net Core\Projects\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.pdb
